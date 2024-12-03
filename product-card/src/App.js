@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Pc from './components/pc';
 
+
 function App() {
   return (
       <div>
@@ -12,6 +13,8 @@ function App() {
               img="vr.jpg" 
           />
       </div>
+
+      
   );
 }
 
