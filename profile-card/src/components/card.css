@@ -1,7 +1,6 @@
-/* Card.css */
 .profile-card {
-    background-color: #1a237e; /* Dark blue background */
-    color: #ffffff; /* White text */
+    background-color: #1a237e; 
+    color: #ffffff;
     border-radius: 12px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     padding: 20px;
@@ -18,22 +17,22 @@
 
 .profile-card-header h2 {
     font-size: 24px;
-    color: #bbdefb; /* Light blue text for headers */
+    color: #bbdefb; 
     margin: 0;
 }
 
 .profile-card-header h4 {
     font-size: 18px;
-    color: #90caf9; /* Slightly lighter blue for subtext */
+    color: #90caf9; 
     margin: 5px 0 15px;
 }
 
 .profile-card-body p {
     font-size: 16px;
     margin: 10px 0;
-    color: #e3f2fd; /* Softer white for body text */
+    color: #e3f2fd;
 }
 
 .profile-card-body p strong {
-    color: #bbdefb; /* Highlighted text matches header color */
+    color: #bbdefb; 
 }
